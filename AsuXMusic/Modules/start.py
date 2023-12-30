@@ -82,8 +82,8 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁",
-                        url="https://github.com/Abishnoi69/AsuXMusic",
+                        text="☁ Owner ☁",
+                        url="https://t.me/Armaan512",
                     )
                 ],
             ]
@@ -95,8 +95,8 @@ async def start(_, message: Message):
 @Abishnoi.on_message(filters.command(["repo", "source"]))
 async def help(client: Abishnoi, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/56557bd94afbe895ae483.jpg",
-        caption=f"""ʜᴇʀᴇ ɪs ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ғᴏʀᴋ ᴀɴᴅ ɢɪᴠᴇ sᴛᴀʀs ✨""",
+        photo=f"https://te.legra.ph/file",
+        caption=f"""Sorry Source Code Not Available  ✨""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
